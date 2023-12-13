@@ -49,7 +49,7 @@ export default function PolicyholderSearcher() {
       <div>
         <label>保戶編號</label>
         {' '}
-        <input type="text" ref={inputRef} />
+        <input type="text" placeholder="1 ~ 9999" ref={inputRef} />
         {' '}
         <button
           type="button"
