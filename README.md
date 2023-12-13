@@ -22,6 +22,7 @@ https://front-end-practice-ivc.vercel.app/
 1. `git clone` 此專案到本地端。
 1. 執行 `npm install` 指令以安裝 package。
 1. 執行 `npm run dev` 指令以跑起開發環境。稍待片刻後，瀏覽器應自動開啟展示頁面。
+1. 開啟瀏覽器，於網址列輸入 `http://localhost:3000` 並前往，即可看到展示畫面。
 
 ## 程式碼簡介
 
